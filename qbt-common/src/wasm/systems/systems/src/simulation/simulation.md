@@ -1,6 +1,7 @@
-# Simulation Folder
 ![FlyByWire Simulations](https://raw.githubusercontent.com/flybywiresim/branding/1391fc003d8b5d439d01ad86e2778ae0bfc8b682/tails-with-text/FBW-Color-Light.svg#gh-dark-mode-only)
 ![FlyByWire Simulations](https://github.com/flybywiresim/branding/blob/master/tails-with-text/FBW-Color-Dark.svg#gh-light-mode-only)
+
+# Simulation Folder
 This folder in its entirety was developed by the FlyByWire Team, all rights are reserved to them. 
 ## License
 

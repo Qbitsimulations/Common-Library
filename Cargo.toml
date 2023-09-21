@@ -1,6 +1,0 @@
-[workspace]
-
-members = [
-    "fbw-common/src/wasm/systems/systems",
-    "fbw-common/src/wasm/systems/systems_wasm",
-]

@@ -1,0 +1,9 @@
+{
+    "index": "./instrument.tsx",
+    "isInteractive": false,
+    "name": "Example",
+    "dimensions": {
+        "width": 1280,
+        "height": 1280
+    }
+}

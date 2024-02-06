@@ -1,0 +1,3 @@
+[submodule "src/instruments/fbw"]
+	path = src/instruments/fbw
+	url = https://github.com/flybywiresim/react-msfs.git
